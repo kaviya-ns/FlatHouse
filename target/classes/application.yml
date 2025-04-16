@@ -1,0 +1,11 @@
+# ClickHouse settings
+clickhouse:
+  host: localhost
+  port: 8123
+  database: default
+  user: default
+  jwt-token: ""
+
+# Spring Boot settings
+server:
+  port: 8080

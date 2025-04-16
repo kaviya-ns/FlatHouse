@@ -1,0 +1,5 @@
+com\example\datatool\model\ClickHouseConfig.class
+com\example\datatool\model\TableColumn.class
+com\example\datatool\controller\DataTransferController.class
+com\example\datatool\DataTransferApplication.class
+com\example\datatool\service\ClickHouseService.class

@@ -1,0 +1,3 @@
+com\datatool\service\ClickHouseServiceTest.class
+com\datatool\controller\DataTransferControllerTest.class
+com\datatool\model\ClickHouseConfigTest.class
