@@ -6,3 +6,7 @@ ingestion between a ClickHouse database and the Flat File platform.
 ClickHouse), handle JWT token-based authentication for ClickHouse as a source, 
 allow users to select specific columns for ingestion, and report the total number of 
 records processed upon completion. 
+
+How to run:
+
+mvn spring-boot:run
