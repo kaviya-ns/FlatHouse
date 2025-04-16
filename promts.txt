@@ -1,0 +1,27 @@
+1.Where to start and the process order?
+
+2.Which pom.xml file should I add this to?
+
+3.Should I create a separate application.yaml file?
+
+4.I moved files to example.datatool.model, but it says package does not exist.
+
+5.Why am I getting duplicate class errors?
+
+6.JCImport error with maven-compiler-plugin—how to fix?
+
+7.Lombok @Data annotations not generating getters/setters.
+
+8.CSVPrinter constructor is undefined—what’s the correct syntax?
+
+9.Application fails to start with @ComponentScan warning.
+
+10.io.r2dbc.spi.ValidationDepth not found—how to exclude R2DBC?
+
+11.TableColumn/ClickHouseConfig classes not found despite correct paths.
+
+12.Cannot find symbol for Lombok-generated methods (getHost(), getPort()).
+
+13.The backend is installed—how do I connect it to index.html?
+
+14.How to verify the ClickHouse connection works?"
